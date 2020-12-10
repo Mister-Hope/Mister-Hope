@@ -1,6 +1,6 @@
 # Hey everyone, I am Mr.Hope
 
-Mr.Hope is my pen name and I like it.(Also I pretty like my avator)
+Mr.Hope is my pen name and I like it. (Also I pretty like my avator)
 
 ## Personal Blog
 
