@@ -6,18 +6,15 @@ Mr.Hope is my pen name and I like it. (Also I pretty like my avatar)
 
 I have a blog built with [my own theme](https://vuepress-theme-hope.github.io). Most of the articles are about frontend.
 
-Blog Address:
-
-- [For China Users](https://mrhope.site)
-- [For OverSea Users](https://mister-hope.github.io)
+Blog Address: [For China Users](https://mrhope.site) | [For OverSea Users](https://mister-hope.github.io)
 
 ## Personal Info
 
 I am currently an undergraduate student in China. I majored in Physics, programming is just my hobby.
 
-I am currently interested in FrontEnd area, including Node.js, Deno, Typescript, vue. And I have some great projects.
+I am interested in FrontEnd area, including Node.js, Deno, Typescript and Vue. And I have some great projects.
 
-I am currently looking forward to miniapp and I think that's the next generation of Progressive Web Apps and will be the users' choise for light-weight apps.
+I am looking forward to miniapp and I think that's the next generation of Progressive Web Apps and will be the users' choise for light-weight apps.
 
 ## Projects
 
