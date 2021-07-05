@@ -20,6 +20,8 @@ I am looking forward to miniapp and I think that's the next generation of Progre
 
 - [vuepress-theme-hope](https://vuepress-theme-hope.github.io): A powerfull vuepress theme with tons of features
 
+- [MP Tool](https://miniapp-tool.github.io): A lightweight miniprogram tool
+
 - [Some greate VuePress plugins](https://vuepress-theme-hope.github.io/guide/#%F0%9F%A7%A9build-in-plugins) including:
   - [vuepress-plugin-md-enhance](https://vuepress-theme-hope.github.io/md-enhance/)
   
