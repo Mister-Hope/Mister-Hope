@@ -10,7 +10,7 @@ Blog Address: [For China Users](https://mrhope.site) | [For OverSea Users](https
 
 ## Personal Info
 
-I am currently an undergraduate student in China. I majored in Physics, programming is just my hobby.
+I am currently a postgraduate student in China. I majored in Theoretical physics, programming is just my hobby.
 
 I am interested in FrontEnd area, including Node.js, Deno, Typescript and Vue. And I have some great projects.
 
