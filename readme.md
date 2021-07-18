@@ -1,5 +1,7 @@
 # Hey everyone, I am Mr.Hope
 
+## Attention, if your are receiving spam messages with some of them pointing to my GitHub, please ignore it. That's not posted by me. Someone is faking me to do that. My blog. my project website are just receiving the same messages. I block them in my other projects, but remain one website [Waline.js](https://waline.js.org). Just visit the link and you can find out I am the victim too. If you got any idea whose this guy is, welcome to report under my profile repo's issue panel. Thanks❤!
+
 Mr.Hope is my pen name and I like it. (Also I pretty like my avatar)
 
 ## Personal Blog
