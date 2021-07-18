@@ -1,6 +1,6 @@
 # Hey everyone, I am Mr.Hope
 
-## Attention, if your are receiving spam messages with links pointing to my GitHub, please ignore it. That's not posted by me. Someone is faking me to do that which is tring to raise some hatred for me. And if anyone has idea whose this guy is, welcome to contact me through profile repo issue, thanks❤!
+## Attention, if your are receiving spam messages with links pointing to my GitHub, please ignore it. That's not posted by me. Someone is faking me to do that which is tring to raise some hatred for me. And if anyone has idea whose this guy is(e.g.: You have his IP), welcome to contact me through profile repo issue, thanks❤!
 
 ## 注意，如果您收到带有指向我的 GitHub 链接的垃圾邮件或评论，请忽略它。那不是我发的。 有人假装我发那些消息想要让您仇视我。 如果您知道这个人是谁(比如您记录了他的IP或其他信息)，欢迎通过档案仓库的issue面板与我联系，谢谢❤！
 
