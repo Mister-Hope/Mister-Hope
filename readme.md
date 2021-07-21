@@ -1,8 +1,8 @@
 # Hey everyone, I am Mr.Hope
 
-## Attention, if your are receiving spam messages with links pointing to my GitHub, please believe that's not posted by me. Someone is faking me to do that which is tring to raise some hatred for me. And for details, please see [discussion](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions/786), thanks❤!
+<!--## Attention, if your are receiving spam messages with links pointing to my GitHub, please believe that's not posted by me. Someone is faking me to do that which is tring to raise some hatred for me. And for details, please see [discussion](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions/786), thanks❤!
 
-## 注意，如果您收到带有指向我的 GitHub 链接的垃圾邮件或评论，请相信那不是我发的。 有人假装我发那些消息想要让您仇视我。 关于事件的具体详情，请见 [讨论](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions/786)，谢谢❤！
+## 注意，如果您收到带有指向我的 GitHub 链接的垃圾邮件或评论，请相信那不是我发的。 有人假装我发那些消息想要让您仇视我。 关于事件的具体详情，请见 [讨论](https://github.com/vuepress-theme-hope/vuepress-theme-hope/discussions/786)，谢谢❤！-->
 
 Mr.Hope is my pen name and I like it. (Also I pretty like my avatar)
 
