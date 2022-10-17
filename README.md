@@ -36,7 +36,7 @@ I am looking forward to miniapp and I think that's the next generation of Progre
   
 - [inNENU Wechat Miniapp](https://github.com/Hope-Studio/inNENU-miniapp): Wechat MiniApp for North East Normal University
 
-- [bycrypt-ts](https://github.com/Mister-Hope/bycrypt-ts): Optimized bcrypt written in typescript with zero dependencies and 8KB Gzip size
+- [bcrypt-ts](https://github.com/Mister-Hope/bcrypt-ts): Optimized bcrypt written in typescript with zero dependencies and 8KB Gzip size
 
 - [@mr-hope/gulp-sass](https://github.com/Mister-Hope/gulp-sass): Sass plugin for Gulp
 
