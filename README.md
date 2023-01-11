@@ -21,7 +21,7 @@ I am looking forward to miniapp and I think that's the next generation of Progre
 [![](https://github-readme-stats.vercel.app/api/pin?username=vuepress&repo=vuepress-next&theme=github_dark)](https://v2.vuepress.vuejs.org)
 [![](https://github-readme-stats.vercel.app/api/pin?username=vuepress-theme-hope&repo=vuepress-theme-hope&theme=github_dark)](https://vuepress-theme-hope.github.io)
 [![](https://github-readme-stats.vercel.app/api/pin?username=walinejs&repo=waline&theme=github_dark)](https://waline.js.org)
-[![](https://github-readme-stats.vercel.app/api/pin?username=Mister-Hope&repo=mdit-plugins&theme=github_dark)](https://mister-hope.github.io/mdit-plugins/)
+[![](https://github-readme-stats.vercel.app/api/pin?username=Mister-Hope&repo=mdit-plugins&theme=github_dark)](https://mdit-plugins.github.io/)
 [![](https://github-readme-stats.vercel.app/api/pin?username=miniapp-tool&repo=mptool&theme=github_dark)](https://miniapp-tool.github.io)
 [![](https://github-readme-stats.vercel.app/api/pin?username=Hope-Studio&repo=inNENU-miniapp&theme=github_dark)](https://github.com/Hope-Studio/inNENU-miniapp)
 [![](https://github-readme-stats.vercel.app/api/pin?username=Mister-Hope&repo=gulp-sass&theme=github_dark)](https://github.com/Mister-Hope/gulp-sass)
