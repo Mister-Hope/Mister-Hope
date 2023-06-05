@@ -24,6 +24,10 @@ Blog Site: [For China Users](https://mrhope.site) | [For OverSea Users](https://
 [![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Hope-Studio&repo=inNENU-miniapp&theme=github_dark)](https://github.com/Hope-Studio/inNENU-miniapp)
 [![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=gulp-sass&theme=github_dark)](https://github.com/Mister-Hope/gulp-sass)
 [![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=bcrypt-ts&theme=github_dark)](https://github.com/Mister-Hope/bcrypt-ts)
+[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=slimsearch&theme=github_dark)](https://github.com/Mister-Hope/slimsearch)
+[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=nodejs-jieba&theme=github_dark)](https://github.com/Mister-Hope/nodejs-jieba)
+[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=flowchart.ts&theme=github_dark)](https://github.com/Mister-Hope/flowchart.ts)
+[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=create-codepen&theme=github_dark)](https://github.com/Mister-Hope/create-codepen)
 
 and more
 
