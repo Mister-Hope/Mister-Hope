@@ -16,7 +16,8 @@ Blog Site: [For China Users](https://mrhope.site) | [For OverSea Users](https://
 
 ## Projects
 
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress&repo=core&theme=github_dark)](https://v2.vuepress.vuejs.org)
+[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress&repo=core&theme=github_dark)](https://vuejs.press)
+[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress&repo=ecosystem&theme=github_dark)](https://ecosystem.vuejs.press)
 [![](https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress-theme-hope&repo=vuepress-theme-hope&theme=github_dark)](https://theme-hope.vuejs.press)
 [![](https://github-readme-status-mrhope.vercel.app/api/pin?username=walinejs&repo=waline&theme=github_dark)](https://waline.js.org)
 [![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=mdit-plugins&theme=github_dark)](https://mdit-plugins.github.io/)
