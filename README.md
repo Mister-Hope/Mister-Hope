@@ -16,19 +16,175 @@ Blog Site: [For China Users](https://mrhope.site) | [For OverSea Users](https://
 
 ## Projects
 
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress&repo=core&theme=github_dark)](https://vuejs.press)
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress&repo=ecosystem&theme=github_dark)](https://ecosystem.vuejs.press)
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress-theme-hope&repo=vuepress-theme-hope&theme=github_dark)](https://theme-hope.vuejs.press)
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=walinejs&repo=waline&theme=github_dark)](https://waline.js.org)
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=mdit-plugins&theme=github_dark)](https://mdit-plugins.github.io/)
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=miniapp-tool&repo=mptool&theme=github_dark)](https://miniapp-tool.github.io)
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=inNENU&repo=inNENU&theme=github_dark)](https://github.com/inNENU/inNENU)
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=gulp-sass&theme=github_dark)](https://github.com/Mister-Hope/gulp-sass)
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=bcrypt-ts&theme=github_dark)](https://github.com/Mister-Hope/bcrypt-ts)
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=slimsearch&theme=github_dark)](https://github.com/Mister-Hope/slimsearch)
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=nodejs-jieba&theme=github_dark)](https://github.com/Mister-Hope/nodejs-jieba)
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=flowchart.ts&theme=github_dark)](https://github.com/Mister-Hope/flowchart.ts)
-[![](https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=create-codepen&theme=github_dark)](https://github.com/Mister-Hope/create-codepen)
+<a href="https://vuejs.press" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress&repo=core&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress&repo=core&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://ecosystem.vuejs.press" target="_blank"></a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress&repo=ecosystem&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress&repo=ecosystem&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://theme-hope.vuejs.press" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress-theme-hope&repo=vuepress-theme-hope&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress-theme-hope&repo=vuepress-theme-hope&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://waline.js.org" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=walinejs&repo=waline&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=walinejs&repo=waline&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://mdit-plugins.github.io/" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=mdit-plugins&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=mdit-plugins&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://miniapp-tool.github.io" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=miniapp-tool&repo=mptool&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=miniapp-tool&repo=mptool&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://github.com/inNENU/inNENU" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=inNENU&repo=inNENU&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=inNENU&repo=inNENU&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://github.com/Mister-Hope/gulp-sass" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=gulp-sass&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=gulp-sass&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://github.com/Mister-Hope/bcrypt-ts" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=bcrypt-ts&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=bcrypt-ts&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://github.com/Mister-Hope/slimsearch" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=slimsearch&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=slimsearch&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://github.com/Mister-Hope/nodejs-jieba" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=nodejs-jieba&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=nodejs-jieba&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://github.com/Mister-Hope/flowchart.ts" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=flowchart.ts&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=flowchart.ts&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://github.com/Mister-Hope/create-codepen" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=create-codepen&theme=github_dark
+      "
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=create-codepen&theme=github_light"
+    />
+  </picture>
+</a>
 
 and more
 
