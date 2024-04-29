@@ -164,7 +164,39 @@ and more
 
 ## Stats
 
-![Mister-Hope profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mister-Hope&theme=github_dark)
-![Mister-Hope github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mister-Hope&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mister-Hope&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mister-Hope&theme=github_dark)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mister-Hope&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mister-Hope&theme=github_light"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mister-Hope&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mister-Hope&theme=github_light"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mister-Hope&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mister-Hope&theme=github_light"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mister-Hope&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mister-Hope&theme=github_light"
+  />
+</picture>
