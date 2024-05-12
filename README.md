@@ -1,8 +1,8 @@
 ## Personal Info
 
 Mr.Hope is my pen name and I like it. (Also I pretty like my avatar😉) 
-
-I am currently a postgraduate student in China. I majored in Theoretical physics, programming is just my hobby.
+<!--
+I am currently a postgraduate student in China. I majored in Theoretical physics, -->I am a student from Northeast Normal University, programming is just my hobby.
 
 I am interested in FrontEnd area, including Node.js, Deno, Typescript and Vue. And I have some great projects.
 
