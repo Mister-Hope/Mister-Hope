@@ -90,7 +90,7 @@ I also build a great project called [inNENU](https://github.com/inNENU) which is
 
 ## Personal Blog
 
-I have a [blog]((https://mister-hope.github.io), most of the articles are about frontend.
+I have a [personal blog](https://mister-hope.github.io), most of the articles are about frontend.
 
 <details>
   <summary>查看中文</summary>
