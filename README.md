@@ -90,18 +90,14 @@ I also build a great project called [inNENU](https://github.com/inNENU) which is
 
 ## Personal Blog
 
-I have a blog built with [my own theme](https://vuepress-theme-hope.github.io). Most of the articles are about frontend.
-
-Blog Site: [For OverSea Users](https://mister-hope.github.io)
+I have a [blog]((https://mister-hope.github.io)), most of the articles are about frontend.
 
 <details>
   <summary>查看中文</summary>
 
 ## 个人博客
 
-我有一个用[自己的主题](https://vuepress-theme-hope.github.io)搭建的博客，大部分文章都是关于前端的。
-
-博客网站：[国内用户](https://mister-hope.com)
+我有一个[个人博客](https://mister-hope.com)，大部分文章都是关于前端的。
 
 </details>
 
