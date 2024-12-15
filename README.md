@@ -48,7 +48,7 @@ Though Programming is just my hobby, I spent a lot of time on it and build some 
 
 I am interested in FrontEnd area, including Node.js and Flutter, I am familar with TypeScript, Vite/Webpack, Vue, rollup/markdown-it,... etc.
 
-I am expect in Vue and I am one of the core team member of [VuePress](https://vuejs.press) core team member. I am fully in charge of [VuePress ecosystem](https://github.com/vuepress/ecosystem) which contains a lot of official plugins and a default theme. I also develop a power theme called [VuePress Theme Hope](https://theme-hope.vuejs.press) myself. I also have other projects, like [markdown-it plugins](https://mdit-plugins.github.io), [bcrypt-ts](https://github.com/Mister-Hope/bcrypt-ts) and [Waline](https://waline.js.org) a powerful comment system.
+I am expect in Vue and I am a [VuePress](https://vuejs.press) core team member. I am fully in charge of [VuePress ecosystem](https://github.com/vuepress/ecosystem) which contains a lot of official plugins and a default theme. I also develop a power theme called [VuePress Theme Hope](https://theme-hope.vuejs.press) myself. I also have other projects, like [markdown-it plugins](https://mdit-plugins.github.io), [bcrypt-ts](https://github.com/Mister-Hope/bcrypt-ts) and [Waline](https://waline.js.org) a powerful comment system.
 
 I am looking forward to miniapp and I think that's the next generation of Progressive Web Apps and will be the users' choise for light-weight apps, I hope a standard implementation can be release in near futrue.
 
