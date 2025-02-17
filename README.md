@@ -1,6 +1,3 @@
-Hi everyone, I am Mr.Hope, a friendly open source contributor.
-
-
 <details>
   <summary>查看中文</summary>
 
@@ -41,6 +38,8 @@ Mr.Hope 是我的笔名，我很喜欢它。我也很喜欢我的头像😉，�
 我有一个[个人博客](https://mister-hope.com)，大部分文章都是关于前端的。
 
 </details>
+
+Hi everyone, I am Mr.Hope, a friendly open source contributor.
 
 ## My name and avatar
 
