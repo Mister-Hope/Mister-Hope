@@ -9,9 +9,9 @@ Mr.Hope 是我的笔名，我很喜欢它。我也很喜欢我的头像😉，�
 
 ## 我的基本信息
 
-我目前是中国的一名研究生。我在东北师范大学学习，主修理论物理。
+我目前是东北育才学校的一名教师，教授物理学科。我获得了东北师范大学的物理学学士和理论物理硕士学位。
 
-我还没结婚，但我有一个女朋友，我们在一起6年了。
+我还没结婚，但我有一个女朋友，我们在一起7年了。
 
 闲暇时，我喜欢看小说、玩游戏和编程。
 
@@ -47,9 +47,9 @@ Mr.Hope is my pen name and I like it. Also I pretty like my avatar😉, I draw a
 
 ## My basic info
 
-I am currently a postgraduate student in China. I study in North East Normal Univerify, and I major in theoretical physics.
+I am currently a teacher at Northeast Yucai School, China, teaching physics. I received my bachelor's degree in physics and my master's degree in theoretical physics from Northeast Normal University.
 
-I am not married yet but I have a girlfriend and am been together with her for 6 years.
+I am not married yet but I have a girlfriend and am been together with her for 7 years.
 
 In spare time, I like reading novels, playing games and programming.
 
