@@ -1,82 +1,104 @@
+<div align="center">
+
+# Mr.Hope
+
+**一名物理教师，也是一位热情的开源开发者与 [VuePress](https://vuejs.press) 核心团队成员。**
+</br>
+**A physics teacher by day, and a passionate open-source developer & [VuePress](https://vuejs.press) Core Team member by night.**
+
+</div>
+
+---
+
+### 📖 中文
+
 <details>
-  <summary>查看中文</summary>
+<summary><strong>👋 你好，我是 Mr.Hope！</strong></summary>
 
-大家好，我是 Mr.Hope，一个友好的开源贡献者。
+<br>
 
-## 我的名字和头像
+#### 👨‍🏫 关于我
 
-Mr.Hope 是我的笔名，我很喜欢它。我也很喜欢我的头像😉，我自己画了一套类似的图标。
+-   我是一名来自中国东北育才学校的物理教师，拥有东北师范大学的理论物理硕士学位。
+-   工作之余，我沉浸于编码、阅读与游戏的世界。
+-   编程对我而言，不止是爱好，更是创造与分享热情的所在。我享受构建能为他人带来价值的工具和项目。
+-   我喜欢我的笔名和这个亲手绘制的头像！😉
 
-## 我的基本信息
+#### 🚀 我的开源之旅
 
-我目前是东北育才学校的一名教师，教授物理学科。我获得了东北师范大学的物理学学士和理论物理硕士学位。
+我专注于前端开发，尤其喜爱 TypeScript 和 Vue 生态。作为 **[VuePress](https://vuejs.press) 核心团队成员**，我主要负责：
 
-我还没结婚，但我有一个女朋友，我们在一起7年了。
+-   领导并维护整个 **[VuePress 生态系统](https://github.com/vuepress/ecosystem)**，包括众多官方插件和默认主题。
+-   独立开发并维护广受欢迎的 **[VuePress Theme Hope](https://theme-hope.vuejs.press)**，一个功能强大且高度可定制的 VuePress 主题。
+-   创建了一系列实用的项目，例如：
+    -   **[Waline](https://waline.js.org)**: 一个简洁、安全、功能强大的评论系统。
+    -   **[Markdown It 插件集](https://mdit-plugins.github.io)**: 增强 Markdown 功能的系列插件。
+    -   **[bcrypt-ts](https://github.com/Mister-Hope/bcrypt-ts)**: 一个零依赖、完全用 TypeScript 编写的 bcrypt 实现。
 
-闲暇时，我喜欢看小说、玩游戏和编程。
+我非常看好小程序（MiniApp）的未来，并认为它代表了下一代轻量级应用的方向。
 
-## 我的项目
+#### 💖 热衷于社区贡献
 
-虽然编程只是我的爱好，但我花了很多时间在上面，并建立了一些很棒的项目。
+我坚信开源的力量，并乐于通过技术帮助他人，让知识和工具能够自由地传播和使用。
 
-我对前端领域感兴趣，包括 Node.js 和 Flutter，我熟悉 TypeScript、Vite/Webpack、Vue、rollup/markdown-it 等。
+-   我所有的个人开源项目都采用**商业友好的免费许可证**，任何人都可以免费使用它们来构建自己的产品。
+-   我的公益项目 **[inNENU](https://github.com/inNENU)** 是一个专为母校师生打造的综合信息平台（网站/小程序）。它包含了超过**一百万字**的校园指南与学习建议，旨在帮助学弟学妹们更好地度过大学生活。
 
-我精通 Vue，也是 [VuePress](https://vuejs.press) 核心团队成员之一。我完全负责 [VuePress 生态系统](https://github.com/vuepress/ecosystem)，其中包含大量官方插件和一个默认主题。我还亲自开发了一款名为 [VuePress Theme Hope](https://theme-hope.vuejs.press) 的强大主题。我还有其他项目，例如 [markdown-it plugins](https://mdit-plugins.github.io)、[bcrypt-ts](https://github.com/Mister-Hope/bcrypt-ts) 和 [Waline](https://waline.js.org) 强大的评论系统。
+#### 📫 如何联系我
 
-我很期待 miniapp，我认为这是下一代渐进式 Web 应用程序，将成为用户轻量级应用程序的选择，我希望不久的将来能够发布一个标准实践。
-
-## 公益
-
-我喜欢做这件事，因为花时间帮助别人让我的一生变得有价值。
-
-我的大多数项目都是开源项目，拥有商业免费许可证，你可以制作自己的产品。
-
-我还建立了一个很棒的项目，名为 [inNENU](https://github.com/inNENU)，这是一个应用程序/网站/小程序，针对东北师范大学（我的大学）的学生。它包含超过 100 万字，为新生介绍了我的学校，同时具有许多强大的功能，对整个学校生活都很有用。我还为整个大学生活写了很多有用的建议。
-
-## 个人博客
-
-我有一个[个人博客](https://mister-hope.com)，大部分文章都是关于前端的。
+-   📝 **个人博客**: 在 [mister-hope.com](https://mister-hope.com) 阅读我的技术文章和思考。
+-   💬 **社交媒体**: 欢迎通过 GitHub 与我交流。
 
 </details>
 
-Hi everyone, I am Mr.Hope, a friendly open source contributor.
+---
 
-## My name and avatar
+### 🇬🇧 English
 
-Mr.Hope is my pen name and I like it. Also I pretty like my avatar😉, I draw a set of similar icons my self.
+<details>
+<summary><strong>👋 Hello there, I'm Mr.Hope!</strong></summary>
 
-## My basic info
+<br>
 
-I am currently a teacher at Northeast Yucai School, China, teaching physics. I received my bachelor's degree in physics and my master's degree in theoretical physics from Northeast Normal University.
+#### 👨‍🏫 About Me
 
-I am not married yet but I have a girlfriend and am been together with her for 7 years.
+-   I'm a physics teacher at Northeast Yucai School, China, holding a Master's degree in Theoretical Physics from Northeast Normal University.
+-   Beyond the classroom, I immerse myself in the world of coding, reading, and gaming.
+-   For me, programming is more than just a hobby—it's a passion for creating and sharing. I enjoy building tools and projects that bring value to others.
+-   I love my pen name and this avatar I drew myself! 😉
 
-In spare time, I like reading novels, playing games and programming.
+#### 🚀 My Open Source Journey
 
-## My Projects
+I focus on front-end development, with a special love for the TypeScript and Vue ecosystems. As a **[VuePress](https://vuejs.press) Core Team member**, my primary responsibilities include:
 
-Though Programming is just my hobby, I spent a lot of time on it and build some great projects.
+-   Leading the maintenance of the entire **[VuePress Ecosystem](https://github.com/vuepress/ecosystem)**, which includes numerous official plugins and the default theme.
+-   Independently developing and maintaining the widely-used **[VuePress Theme Hope](https://theme-hope.vuejs.press)**, a powerful and highly customizable theme for VuePress.
+-   Authoring other practical projects, such as:
+    -   **[Waline](https://waline.js.org)**: A simple, secure, and powerful comment system.
+    -   **[Markdown It Plugin Collection](https://mdit-plugins.github.io)**: A suite of plugins to supercharge your Markdown.
+    -   **[bcrypt-ts](https://github.com/Mister-Hope/bcrypt-ts)**: A zero-dependency bcrypt implementation written entirely in TypeScript.
 
-I am interested in FrontEnd area, including Node.js and Flutter, I am familar with TypeScript, Vite/Webpack, Vue, rollup/markdown-it,... etc.
+I am also keenly interested in the future of MiniApps, which I believe represent the next generation of lightweight applications.
 
-I am expect in Vue and I am a [VuePress](https://vuejs.press) core team member. I am fully in charge of [VuePress ecosystem](https://github.com/vuepress/ecosystem) which contains a lot of official plugins and a default theme. I also develop a power theme called [VuePress Theme Hope](https://theme-hope.vuejs.press) myself. I also have other projects, like [markdown-it plugins](https://mdit-plugins.github.io), [bcrypt-ts](https://github.com/Mister-Hope/bcrypt-ts) and [Waline](https://waline.js.org) a powerful comment system.
+#### 💖 Passionate About Building for the Community
 
-I am looking forward to miniapp and I think that's the next generation of Progressive Web Apps and will be the users' choise for light-weight apps, I hope a standard implementation can be release in near futrue.
+I'm a firm believer in the power of open source and enjoy leveraging technology to help others, making knowledge and tools freely accessible.
 
-## Public Welfare
+-   All my personal open-source projects are under **commercial-friendly free licenses**, allowing anyone to use them for their own products without cost.
+-   My public-interest project, **[inNENU](https://github.com/inNENU)**, is a comprehensive information hub (Website/MiniApp) for students at my alma mater. It features **over a million words** of guides and advice, designed to help students navigate their university life more effectively.
 
-I love doing this as it makes my life worthy when spending time helping others.
+#### 📫 Get In Touch
 
-Most of my projects are all open source projects and have a commerical-free license which you can make product of your own.
+-   📝 **Personal Blog**: Read my technical articles and thoughts at [mister-hope.com](https://mister-hope.com).
+-   💬 **Social Media**: Feel free to connect with me here on GitHub.
 
-I also build a great project called [inNENU](https://github.com/inNENU) which is a App/Website/Miniapp, that is targeting students of NENU (which is my college). It contain more than 1 million words in it, introducing my school for newcomers, with a lot of powerful features that is useful in the whole school life. I also wrote a lot of useful advices for the whole college life.
+</details>
 
-## Personal Blog
+---
 
-I have a [personal blog](https://mister-hope.github.io), most of the articles are about frontend.
+### ✨ 精选项目 / Pinned Projects
 
-## Projects
-
+<!-- The project pins section can be kept as is -->
 <a href="https://vuejs.press" target="_blank">
   <picture>
     <source
@@ -154,17 +176,6 @@ I have a [personal blog](https://mister-hope.github.io), most of the articles ar
     />
   </picture>
 </a>
-<a href="https://github.com/Mister-Hope/gulp-sass" target="_blank">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=gulp-sass&theme=github_dark"
-    />
-    <img
-      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=gulp-sass&theme=github_light"
-    />
-  </picture>
-</a>
 <a href="https://github.com/Mister-Hope/bcrypt-ts" target="_blank">
   <picture>
     <source
@@ -176,55 +187,10 @@ I have a [personal blog](https://mister-hope.github.io), most of the articles ar
     />
   </picture>
 </a>
-<a href="https://github.com/Mister-Hope/slimsearch" target="_blank">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=slimsearch&theme=github_dark"
-    />
-    <img
-      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=slimsearch&theme=github_light"
-    />
-  </picture>
-</a>
-<a href="https://github.com/Mister-Hope/nodejs-jieba" target="_blank">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=nodejs-jieba&theme=github_dark"
-    />
-    <img
-      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=nodejs-jieba&theme=github_light"
-    />
-  </picture>
-</a>
-<a href="https://github.com/Mister-Hope/flowchart.ts" target="_blank">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=flowchart.ts&theme=github_dark"
-    />
-    <img
-      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=flowchart.ts&theme=github_light"
-    />
-  </picture>
-</a>
-<a href="https://github.com/Mister-Hope/create-codepen" target="_blank">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=create-codepen&theme=github_dark"
-    />
-    <img
-      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=Mister-Hope&repo=create-codepen&theme=github_light"
-    />
-  </picture>
-</a>
 
-and more
+### 📊 GitHub 统计 / GitHub Stats
 
-## Stats
-
+<!-- The stats section can be kept as is -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
