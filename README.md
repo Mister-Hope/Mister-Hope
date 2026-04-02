@@ -2,9 +2,9 @@
 
 # Mr.Hope
 
-**一名物理教师，也是一位热情的开源开发者与 [VuePress](https://vuejs.press) 核心团队成员。**
+**一名物理教师，也是一位热情的开源开发者。**
 </br>
-**A physics teacher by day, and a passionate open-source developer & [VuePress](https://vuejs.press) Core Team member by night.**
+**A physics teacher by day, and a passionate open-source developer by night.**
 
 </div>
 
