@@ -165,17 +165,6 @@ I'm a firm believer in the power of open source and enjoy leveraging technology 
     />
   </picture>
 </a>
-<a href="https://github.com/inNENU/inNENU" target="_blank">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=inNENU&repo=inNENU&theme=github_dark"
-    />
-    <img
-      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=inNENU&repo=inNENU&theme=github_light"
-    />
-  </picture>
-</a>
 <a href="https://github.com/Mister-Hope/bcrypt-ts" target="_blank">
   <picture>
     <source
